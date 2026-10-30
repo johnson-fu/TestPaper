@@ -1,0 +1,17 @@
+{
+  "title": "範例 離散數學 小考卷",
+  "exam_name": "範例 離散數學 小考",
+  "author": "",
+  "data": "exam_data.js",
+  "mc_points": 7,
+  "calc_points": 15,
+  "paper_pages": 1,
+  "pt": 14,
+  "ls": 1.2,
+  "fonts": { "latin": "Times New Roman", "cjk": "標楷體", "math": "Cambria Math", "mono": "Consolas" },
+  "figures": {
+    "graph": { "file": "img/graph.png", "cm_h": 4.0 }
+  },
+  "shuffle": { "seed": 2026, "groups": [[1, 5], [6, 10]], "keep_together": [[9, 10]], "max_same_answer_run": 3 },
+  "sheet": { "per_row": 18, "calc_weights": [1, 1] }
+}

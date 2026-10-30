@@ -1,3 +1,8 @@
 __pycache__/
 *.pyc
 out/
+probe/
+students.json
+orders.json
+layout.json
+node_modules/
